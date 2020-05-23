@@ -1,3 +1,11 @@
-# Travel Destinations
 
-A simple app to keep track of destinations I'd like to visit.
+### Project Title
+Travel Destinations
+
+### Description
+In this project, you can make use of HTML, CSS and JavaScript to keep track of destinations you would like to visit.
+
+### Language used:
+* HTML
+* CSS
+* JavaScript
